@@ -25,6 +25,7 @@ from sentence_transformers import SentenceTransformer
 import matplotlib.pyplot as plt
 import math
 from openai import OpenAI  # Added for OpenAI embeddings
+import gdown
 
 
 ### Some predefined utility functions for you to load the text embeddings
